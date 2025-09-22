@@ -1,0 +1,6 @@
+1, Nasi Lemak Pyramid, 3.00
+2, Mee Goreng Terbang, 3.00
+3, Sandwich Telur, 4.00
+4, Teh Tarik Bulan, 2.00
+5, Milo Ais, 2.50
+
