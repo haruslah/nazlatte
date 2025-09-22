@@ -48,7 +48,7 @@ while True:
                     item_number, item_name, item_price = line.strip().split(",")
                     print(f"{item_number}. {item_name} - RM{item_price}")
         except FileNotFoundError:
-            print("\nFile 'menus2.txt' not found.")
+            print("\nFile 'menus.txt' not found.")
     
  
     # option B: order food
